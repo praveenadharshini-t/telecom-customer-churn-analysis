@@ -94,3 +94,35 @@ Identified a high-risk customer segment contributing **~27% of total customers a
 * Jupyter Notebook
 
 ---
+
+## 📊 Key Visualizations
+
+### Churn vs Tenure
+![Churn vs Tenure](images/tenure_churn.png)
+
+**Insight:**  
+Customers who churn have significantly lower tenure, with churn concentrated in the first 0–6 months.
+
+---
+
+### Churn by Contract Type
+![Contract](images/contract_churn.png)
+
+**Insight:**  
+Month-to-month customers exhibit the highest churn rates, showing lack of long-term commitment.
+
+---
+
+### Churn by Internet Type
+![Internet](images/internet_churn.png)
+
+**Insight:**  
+Fiber Optic users show the highest churn (~41%), despite higher pricing, indicating value mismatch.
+
+---
+
+### High-Risk Segment
+![High Risk](images/high_risk_churn.png)
+
+**Insight:**  
+Nearly 60% of customers in this segment churn, making it the most critical revenue risk group.
